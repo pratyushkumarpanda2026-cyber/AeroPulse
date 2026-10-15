@@ -83,8 +83,8 @@ Adjust to match whatever layout you agree on.
 
 ## Roadmap
 
-- [ ] Game starter project: canvas, loop, input, state machine, saving
-- [ ] Overworld with tile map and collisions
+- [✅] Game starter project: canvas, loop, input, state machine, saving
+- [✅] Overworld with tile map and collisions
 - [ ] Battle system with JSON data
 - [ ] Data validator and balance simulator
 - [ ] Draft ISA and Python assembler
